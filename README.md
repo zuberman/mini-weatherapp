@@ -19,17 +19,19 @@ This app blends data from [openweathermap.org](https://openweathermap.org/) and
 
 ## Objectives
 
-Use `fetch` to retrieve the weather for a single day. You can see the documentation at [https://openweathermap.org/current](https://openweathermap.org/current). For now, we'll set London or another location of your choice as the default.
+- [ ] Use `fetch` to retrieve the weather for a single day. You can see the documentation at [https://openweathermap.org/current](https://openweathermap.org/current). For now, we'll set London or another location of your choice as the default.
 
-Once you've retrieved the weather data, use its `description` property to get matching images from Unsplash. You can see the documentation for image search at [https://unsplash.com/documentation#search-photos](https://unsplash.com/documentation#search-photos).
+- [ ] Once you've retrieved the weather data, use its `description` property to get matching images from Unsplash. You can see the documentation for image search at [https://unsplash.com/documentation#search-photos](https://unsplash.com/documentation#search-photos).
 
-Display the images as a gallery of clickable thumbnails (clicking loads the main image)
+- [ ] Display the images as a gallery of clickable thumbnails (clicking loads the main image)
+
+- Commit code regularly, push and create a pull request so we can see how you got on
 
 ## Stretch goals
 
-- Add a feature of your choice
+- [ ] Add a feature of your choice
 
-- Create an input field that lets us see what the weather is like in other cities
+- [ ] Create an input field that lets us see what the weather is like in other cities
 
 ## Support
 
