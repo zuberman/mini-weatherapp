@@ -25,7 +25,7 @@ This app blends data from [openweathermap.org](https://openweathermap.org/) and
 
 - [ ] Display the images as a gallery of clickable thumbnails (clicking loads the main image)
 
-- Commit code regularly, push and create a pull request so we can see how you got on
+- [ ] Commit code regularly, push and create a pull request so we can see how you got on
 
 ## Stretch goals
 
