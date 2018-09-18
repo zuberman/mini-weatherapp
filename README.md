@@ -36,3 +36,5 @@ This app blends data from [openweathermap.org](https://openweathermap.org/) and
 - [ ] Display photographer credits in bottom right hand corner with link to their portfolio on Unsplash
 
 - [ ] Display white border around thumbnail of image currently displayed as main image using `active` class
+
+You may need to use data attributes as part of the exercise. You can see more info about them at [https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes).
